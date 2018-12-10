@@ -8,7 +8,7 @@ This API Endpoint can be used to provide content to an app able to consume JSON.
 
 Add the scripts `Main.gs` and `SheetToJSON.gs` to an existing or new Google Sheets Workbook.
 
-<img src="https://raw.githubusercontent.com/Link-/gsheetToJSON/master/sheetToJSON.gif" width="1280" height="720" />
+<img src="https://raw.githubusercontent.com/Link-/gsheetToJSON/master/sheetToJSON.gif" width="800" />
 
 ### Usage
 
